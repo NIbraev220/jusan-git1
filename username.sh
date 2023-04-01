@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "username: Ibraev Nurdaulet"
+echo "username: Nurdaulet Ibraev"

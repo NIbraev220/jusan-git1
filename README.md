@@ -3,7 +3,7 @@
 ***
 
 <<<<<<< HEAD
-![Это опциональный alt-текст](C:\Users\Timing\jusan-git\image.png)
+![ ](https://avatars.mds.yandex.net/get-images-cbir/8232823/65-QJ1ovSbMCdV4-S1k8-A539/ocr)
 
 ***
 

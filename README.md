@@ -1,6 +1,6 @@
 # stepik-id-printer
 
-![c]([C:\Users\Timing\Pictures\image.png](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/))
+![](https://avatars.mds.yandex.net/get-images-cbir/8232823/65-QJ1ovSbMCdV4-S1k8-A539/ocr)
 
 ***
 

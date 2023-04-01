@@ -2,10 +2,13 @@
 
 ***
 
+<<<<<<< HEAD
 ![Это опциональный alt-текст](C:\Users\Timing\jusan-git\image.png)
 
 ***
 
+=======
+>>>>>>> main
 Это проект для вывода моего персонального идентификатора на образовательной платформе `stepik.org`.
 Также есть username.sh, который выводит мои имя и фамилию.
 
@@ -64,4 +67,8 @@ int main() {
  | Почта         | [Ссылка](https://ssylka.com) | 24 часа   |
  | LinkedIn      | [Ссылка](https://ssylka.com) | 12 часов  |
  | WhatsApp      | [Ссылка](https://ssylka.com) | 30 минут  |
+<<<<<<< HEAD
  | Telegram      | [Ссылка](https://ssylka.com) | 1 час     |
+=======
+ | Telegram      | [Ссылка](https://ssylka.com) | 1 час     |
+>>>>>>> main
